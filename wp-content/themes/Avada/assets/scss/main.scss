@@ -1,0 +1,16 @@
+@import 'variables';
+@import 'colour';
+@import 'global';
+
+//components
+@import 'components/header';
+@import 'components/currency';
+@import 'components/nav';
+@import 'components/searchEngines';
+@import 'components/footer';
+
+//pages
+@import 'pages/amzFrontPage';
+
+//media query
+@import 'responsive';

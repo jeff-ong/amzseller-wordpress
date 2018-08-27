@@ -1,0 +1,38 @@
+#wrapper {
+    .fusion-page-title-bar {
+        background: #fff;
+    }
+    .fusion-page-title-row {
+        max-width: 1140px;
+    }
+    .logo {
+        width: 246px;
+        img {
+            max-width: 100%;
+        }
+    }
+    .fusion-main-menu {
+        ul {
+            padding: 0;
+            margin: 0;
+            font-size: 1.3em;
+            line-height: normal;
+            height: 84px;
+            display: flex;
+            align-items: center;
+            li {
+                border: 0;
+            }
+            ul {
+                display: flex;
+                align-items: center;
+                li {
+                    padding-left: 1em;
+                    &:first-child {
+                        padding-left: 0;
+                    }
+                }
+            }
+        }
+    }
+}

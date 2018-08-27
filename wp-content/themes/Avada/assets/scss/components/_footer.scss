@@ -1,0 +1,17 @@
+.fusion-footer {
+    border-top: 1px solid $light-grey;
+   .fusion-footer-widget-area {
+       border: 0;
+       background: $white;
+       color: $grey;
+       .widget-title {
+           margin-bottom: 5px;
+       }
+   }
+   .fusion-footer-widget-area .widget-title,
+   .fusion-footer-widget-area h3,
+   .fusion-footer-widget-column .product-title {
+       color: $grey;
+   }
+}
+

@@ -1,0 +1,16 @@
+{
+    "host": "ftp.jarksolutions.ca",
+    "username": "test2@jarksolutions.ca",
+    "password": "amzseller123!",
+    "remotePath": "",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ],
+    "autoUpload": false
+}
